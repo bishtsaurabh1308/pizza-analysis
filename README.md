@@ -95,8 +95,6 @@ This dashboard enables businesses to:
 
 ---
 
-## Author
-**Saurabh Singh Bisht** 
+**Saurabh Bisht** 
 
----
-## ⭐ If you found this project useful, feel free to star the repository!
+
