@@ -94,7 +94,7 @@ This dashboard enables businesses to:
 3. Explore insights across different pages  
 
 ---
-
+## Author
 **Saurabh Bisht** 
 
 
